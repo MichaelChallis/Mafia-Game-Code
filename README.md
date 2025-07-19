@@ -1,1 +1,1 @@
-The two codes in this repository recreate Figures 2 and 3 from "Improved Theory, and Modeling of the Game Mafia" (Michael J. Challis). All insturction for the reproduction of these figures is in the comments of the code.
+The two codes in this repository recreate Figures 2 and 3 from "Improved Theory, and Modeling of the Game Mafia" (Michael J. Challis). All instructions for the reproduction of these figures is in the comments of the code.
